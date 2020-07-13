@@ -1,0 +1,1 @@
+curl --header 'Host:test.localhost' 'http://localhost:80/'
